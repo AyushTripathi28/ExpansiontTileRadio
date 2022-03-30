@@ -1,17 +1,10 @@
-# expansion_list
+# Make ExpansionTile work as ExpansionPanelList.radio
 
-A new Flutter project.
+## Introduction
+We are making something similar where when you click on any panel — it expanded and rest all automatically collapse. It is called Expansion Panel List of type Radio. But there are some drawbacks that you cannot easily customise it. So we are going to implement this auto collapse feature into Expansion Tile because we can easily customise them according to our need.
 
-## Getting Started
+So I created this project to showcase how I implement that and what result I get at end is Quite better than ExpansionPannelList.Radio.
 
-This project is a starting point for a Flutter application.
+Link to blog is:- https://learnwithayush.medium.com/make-expansiontile-work-as-expansionpanellist-radio-4c35809bc841
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# ExpansiontTileRadio
+<img src="output.gif" height=500px width=250px>
